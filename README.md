@@ -18,9 +18,7 @@ This repository contains my daily practice projects where I learn and build vari
 ## 📅 Progress Overview
 | Day | Project Name             | Description                 | Link to Code                        |
 |-----|--------------------------|-----------------------------|--------------------------------------|
-| 01  | Calculator               | A simple calculator app.    | [Day01-Calculator](./Day01-Calculator) |
-| 02  | Weather App              | A weather information app.  | [Day02-WeatherApp](./Day02-WeatherApp) |
-| 03  | To-Do List               | A basic to-do list manager. | [Day03-ToDoList](./Day03-ToDoList)  |
+| 01  | Weather App              | A weather information app.  | [Day02-WeatherApp](./Day 1 - Weather app) |
 | ... | ...                      | ...                         | ...                                 |
 
 ---
@@ -28,4 +26,4 @@ This repository contains my daily practice projects where I learn and build vari
 ## 📌 How to Use
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/100-Days-of-Web-Development.git
+   git clone https://github.com/Rusiru-Jayakody/HTML-CSS-JS-Projects.git
